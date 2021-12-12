@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tienda de Celebraciones</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <!-- Menu Options -->
+    <string name="bautizos">Bautizos</string>
+    <string name="matrimonios">Matrimonios</string>
+    <string name="cumpleaños">Fiesta de Cumpleaños</string>
+    <string name="datos">Datos de Contacto</string>
+
+    <!-- Menu Lateral -->
+    <string name="menu_home">Página Principal</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+
+    <!-- lista Servicios -->
+    <string name="nameList1">Bautizo</string>
+    <string name="descriptionList1">Salon y Buffet 150 personas</string>
+    <string name="precioList1">$1\'000.000</string>
+
+    <string name="nameList2">Matrimonio</string>
+    <string name="descriptionList2">Salon y Buffet 300 personas</string>
+    <string name="precioList2">$15\'000.000</string>
+
+    <string name="nameList3">Fiestas de Cumpleaños</string>
+    <string name="descriptionList3">Salon y Buffet 70 personas</string>
+    <string name="precioList3">$3\'000.000</string>
+
+    <string name="nameList4">Grados</string>
+    <string name="descriptionList4">Salon y Buffet 90 personas</string>
+    <string name="precioList4">$5\'000.000</string>
+
+</resources>
