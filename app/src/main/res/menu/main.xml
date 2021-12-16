@@ -2,12 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/itemFavoritos"
+        android:id="@+id/favoritos"
         android:title=""
         android:icon="@drawable/ic_baseline_favorite_border_24"
         app:showAsAction="always"/>
     <item
-        android:id="@+id/itemCompartir"
+        android:id="@+id/compartir"
         android:title=""
         android:icon="@drawable/ic_baseline_share_24"
         app:showAsAction="always"/>
@@ -21,6 +21,10 @@
         app:showAsAction="never" />
     <item android:id="@+id/cumpleaños"
         android:title="@string/cumpleaños"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/agregar"
+        android:title="@string/agregar"
         android:orderInCategory="100"
         app:showAsAction="never" />
 </menu>

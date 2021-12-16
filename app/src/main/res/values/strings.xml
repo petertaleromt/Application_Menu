@@ -12,6 +12,7 @@
     <string name="matrimonios">Matrimonios</string>
     <string name="cumpleaños">Fiesta de Cumpleaños</string>
     <string name="datos">Datos de Contacto</string>
+    <string name="agregar">Agregar</string>
 
     <!-- Menu Lateral -->
     <string name="menu_home">Página Principal</string>
