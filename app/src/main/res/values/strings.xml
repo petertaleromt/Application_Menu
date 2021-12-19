@@ -12,7 +12,8 @@
     <string name="matrimonios">Matrimonios</string>
     <string name="cumpleaños">Fiesta de Cumpleaños</string>
     <string name="datos">Datos de Contacto</string>
-    <string name="agregar">Agregar</string>
+    <string name="agregar">Agregar Servicio</string>
+    <string name="agregarsc">Agregar Sucursal</string>
 
     <!-- Menu Lateral -->
     <string name="menu_home">Página Principal</string>

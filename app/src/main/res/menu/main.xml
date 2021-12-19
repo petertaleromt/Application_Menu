@@ -27,4 +27,8 @@
         android:title="@string/agregar"
         android:orderInCategory="100"
         app:showAsAction="never" />
+    <item android:id="@+id/agregarsc"
+        android:title="@string/agregarsc"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
 </menu>

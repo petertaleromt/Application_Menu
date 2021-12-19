@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <!--    Codigo Caja 1-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/imgItemSC"
+            android:layout_width="90dp"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+            android:src="@mipmap/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvIdSC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/voltaire"
+                android:gravity="center"
+                android:text="plantilla" />
+
+            <TextView
+                android:id="@+id/tvNameSC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/voltaire"
+                android:gravity="center"
+                android:text="plantilla" />
+
+            <TextView
+                android:id="@+id/tvLocalizationSC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/voltaire"
+                android:gravity="center"
+                android:text="plantilla" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

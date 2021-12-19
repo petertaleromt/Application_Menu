@@ -131,7 +131,7 @@ public class FormActivity extends AppCompatActivity {
                 View view = findViewById(R.id.linearLayoutForm);
                 llenarCampos();
                 try{
-                    dbHelper.updateProductoById(
+                    dbHelper.updateServicioById(
                             name,
                             editId.getText().toString().toString(),
                             campo1Insert,

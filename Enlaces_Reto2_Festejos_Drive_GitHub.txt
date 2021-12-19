@@ -1,6 +1,0 @@
-Buena Noches,
-
-Profesor Adjunto enlaces de la solución al Reto_2
-
-GitHub
-https://github.com/petertaleromt/Application_Menu.git
